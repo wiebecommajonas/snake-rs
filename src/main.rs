@@ -8,7 +8,7 @@ use speedy2d::window::{
 use speedy2d::{Graphics2D, Window};
 use std::time;
 
-const CELL_SIZE: u32 = 10;
+const CELL_SIZE: u32 = 20;
 const HEIGHT: u32 = 480;
 const WIDTH: u32 = 640;
 
