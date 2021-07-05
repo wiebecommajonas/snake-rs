@@ -14,6 +14,6 @@ This is a simple implementation of a snake game in Rust. Feel free to copy, modi
 
 ## Functionality that needs to be added
 
-- [] Death
-- [] Screen adges
-- [] Start screen
+- [ ] Death
+- [ ] Screen adges
+- [ ] Start screen
