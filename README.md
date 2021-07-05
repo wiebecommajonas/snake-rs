@@ -8,6 +8,8 @@ $ cd snake-rs
 $ cargo run
 ```
 
+Use the arrow keys to steer the snake.
+
 ## What is this
 
 This is a simple implementation of a snake game in Rust. Feel free to copy, modify and play around with the code.
